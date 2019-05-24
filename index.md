@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 52kanbi.com GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/52kanbi/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
